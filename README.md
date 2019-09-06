@@ -1,2 +1,2 @@
 # SL-Lab-programs
-These are the programs covering important concepts taught in SL lab course
+These are the programs covering important concepts taught in Scripting Languages lab course
