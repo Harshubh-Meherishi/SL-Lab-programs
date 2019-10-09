@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JSON object question</title>
+</head>
+<body>
+	<p id="demo"></p>
+	<script language = "javascript">
+	var myObj,i,x ="";
+	myObj  = [
+		      { "Name" : "Arial",
+				   "Size" : 12,
+				   "Weight" : 2,
+				   "Indent" : 1.5,
+				  },
+				  { "Name" : "Times New Roman",
+				   "Size" : 13,
+				   "Weight" : 4,
+				   "Indent" : 1.2,
+				  },
+				  { "Name" : "Helvetica",
+				   "Size" : 15,
+				   "Weight" : 1,
+				   "Indent" : 1.0,
+				  },
+				  { "Name" : "Comic Sans MS",
+				   "Size" : 10,
+				   "Weight" : 3,
+				   "Indent" : 1.6,
+				  }
+			];  
+				  
+		  
+	for (i in myObj){
+		x += '<h2 style = "font-family: myObj[i].Name"> Name : ' + myObj[i].Name + '</h2>';
+		x += "<h3> Size: " + myObj[i].Size + "</h3>";
+		x += "<h3>Weight: " + myObj[i].Weight + "</h3>";
+		x += "<h3>Indent: " + myObj[i].Indent + "</h3>";
+	}
+	document.getElementById("demo").innerHTML = x;
+</script>
+</body>
+</html>
+
+	
