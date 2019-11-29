@@ -10,7 +10,7 @@
 
 **Submitted to Dr. Mydhili K Nair (Faculty Coordinator)**
 
-**List of Programs
+**List of Programs**
 
 1. Intro to Python and JavaScript(week1 and week2) 
     1. Python Basics - Datatypes, Functions, List Comprehension
