@@ -1,16 +1,16 @@
 # Scripting Lab Program Submission
 
-##(under Department of ISE, Ramaiah Institute of Technology)
+## (under Department of ISE, Ramaiah Institute of Technology)
 
-**USN : 1MS17IS148**
+## USN : 1MS17IS148
 
-**Name : Harshubh Meherishi**
+## Name : Harshubh Meherishi
 
-**Section : 5A**
+## Section : 5A
 
-**Submitted to Dr. Mydhili K Nair (Faculty Coordinator)**
+## Submitted to Dr. Mydhili K Nair (Faculty Coordinator)
 
-**List of Programs**
+## List of Programs
 
 1. Intro to Python and JavaScript(week1 and week2) 
     1. Python Basics - Datatypes, Functions, List Comprehension
