@@ -43,3 +43,7 @@
     1. ATM app
     2. Shopping Cart app
 ![Screenshot from 2019-12-02 02-04-26](https://user-images.githubusercontent.com/45391029/69915935-b563be80-147a-11ea-895f-9a87b85cc3e7.png)
+![Screenshot from 2019-12-02 02-04-41](https://user-images.githubusercontent.com/45391029/69915944-e0e6a900-147a-11ea-9346-a97dbeb4527a.png)
+![Screenshot from 2019-12-02 02-04-59](https://user-images.githubusercontent.com/45391029/69915946-e47a3000-147a-11ea-98b3-f02f5ffe1333.png)
+![Screenshot from 2019-12-02 02-05-22](https://user-images.githubusercontent.com/45391029/69915949-e6dc8a00-147a-11ea-8b3b-e137d4bb8f4c.png)
+
