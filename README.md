@@ -42,4 +42,4 @@
 6. Web Applications using Flask
     1. ATM app
     2. Shopping Cart app
-    ![Screenshot](/home/harshubh/Desktop/Screenshot from 2019-12-02 02-05-22.png)
+![Screenshot from 2019-12-02 02-04-26](https://user-images.githubusercontent.com/45391029/69915935-b563be80-147a-11ea-895f-9a87b85cc3e7.png)
